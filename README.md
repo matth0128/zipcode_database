@@ -9,7 +9,7 @@ Zipcode Database Service
 4. Fill-in the missing data in the "config.php" file.
 
 ###Note
-The Zipcode Database Service requires a [USPS API](https://www.usps.com/business/web-tools-apis/welcome.htm) and [ZipCodeAPI](https://www.zipcodeapi.com/) key.
+The Zipcode Database Service requires a [USPS API](https://www.usps.com/business/web-tools-apis/welcome.htm) key and a [ZipCodeAPI](https://www.zipcodeapi.com/) key.
 
 ###File Structure
 ```
