@@ -4,7 +4,7 @@ Zipcode Database Service
 ##Installation
 1. Create MySQL database and create the "zipData" table.
 2. Initialize the "zipData" table using the "zipData.sql" dump.
-3. Initailze the "config.php" file the "example_configuration.php" file.<br>
+3. Initailze the "config.php" file using the "example_config.php" file.<br>
 `$ cp example_config.php config.php`
 4. Fill-in the missing data in the "config.php" file.
 
