@@ -38,7 +38,6 @@ class mysqlDAO {
 // ----- START ----- Generic Query Functions -----
     //Query One: Returns only the first value
     public function queryOne($query){
-        
         $res = $this->dbConn->query($query);
         //Check for Error
         if($this->dbConn->error){
